@@ -1,0 +1,27 @@
+#Rusian
+Добро пожалувать в Pin generator 
+Перед начало вам нужно установить две библиотеки:
+
+pip install rich pyfiglet
+
+Если вы на линуксе и вам не позволяет скачать следуйте этим шагам:
+1 | python3 -m venv .venv
+2 | source .venv/bin/activate (откл. deactivate)
+3 | pip install rich pyfiglet
+Зделал его один человек под ником Unbowed прошу вас подписаться на тгк розроботчика =]
+t.me/unbowed_scripts
+Буду рад
+#English
+Welcome to Pin Generator
+
+Before you start, you need to install two libraries:
+pip install rich pyfiglet
+
+If you're on Linux and it won't let you install, follow these steps:
+1 | python3 -m venv .venv
+2 | source .venv/bin/activate (to deactivate: deactivate)
+3 | pip install rich pyfiglet
+
+Made by one person under the nickname Unbowed — please subscribe to the developer's Telegram channel =]
+t.me/unbowed_scripts
+Would appreciate it!
